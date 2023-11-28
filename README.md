@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hola!👋Soy Ana Lucía Vargas, una entusiasta del desarrollo Back End que disfruta fusionar la lógica del código con soluciones innovadoras.
 
-<!--
-**Luvargaslombardi/Luvargaslombardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Actualmente, me enfoco en el desarrollo de emocionantes proyectos como freelance.
 
-Here are some ideas to get you started:
+🌟 Además del código, encuentro equilibrio entre la programación y mis pasiones por la filosofía y la gastronomía.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Tecnologías que manejo:
+-HTML5
+-Javascript
+-React
+-Redux
+-CSS3
+-Sass
+-Tailwind
+-Bootstrap
+-WordPress
+-Node.js
+-Express
+-PostgreSQL
+-Sequelize
+-Figma
+-Trello
+-Jira
+-Excel
+###¿Quieres hablar? ¡Conéctate conmigo! 🚀
+📧## Email: any.vargas231095@gmail.com
+📞## Teléfono: 3865657800
+🔗## LinkedIn: linkedin.com/in/analuciavargasl/
