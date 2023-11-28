@@ -1,10 +1,10 @@
-### Hola!👋Soy Ana Lucía Vargas, una entusiasta del desarrollo Back End que disfruta fusionar la lógica del código con soluciones innovadoras.
+# Hola!👋Soy Ana Lucía Vargas, una entusiasta del desarrollo Back End que disfruta fusionar la lógica del código con soluciones innovadoras.
 
 💼 Actualmente, me enfoco en el desarrollo de emocionantes proyectos como freelance.
 
 🌟 Además del código, encuentro equilibrio entre la programación y mis pasiones por la filosofía y la gastronomía.
 
-##Tecnologías que manejo:
+## Tecnologías que manejo:
 
 - HTML5
 - Javascript
@@ -25,7 +25,7 @@
 - Excel
 
   
-###¿Quieres hablar? ¡Conéctate conmigo! 🚀
+### ¿Quieres hablar? ¡Conéctate conmigo! 🚀
 
 📧 Email: any.vargas231095@gmail.com
 📞 Teléfono: 3865657800
